@@ -1,0 +1,6 @@
+dependencies:
+- name: nginx
+  repository: git:https://github.com.cnpmjs.org/yxxhero/helmchart.git
+  version: main
+digest: sha256:eacb7dda641a88ba7453f6b46943338ac1d8376937b7a356814f9b7cd31591e0
+generated: "2021-03-18T21:56:26.017023438+08:00"
